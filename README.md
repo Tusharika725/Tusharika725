@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&height=240&section=header&text=Tusharika%20Srivastava&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Backend%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=68&descSize=20&v=1" alt="Tusharika Srivastava Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&amp;height=240&amp;section=header&amp;text=Tusharika%20Srivastava&amp;fontSize=64&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;stroke=000000&amp;strokeWidth=1&amp;desc=Backend%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&amp;descAlignY=68&amp;descSize=20&amp;v=1" alt="Tusharika Srivastava Banner" />
 
 <br />
 
@@ -13,7 +13,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions" alt="Typing Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=1300&amp;color=6DB33F&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions&amp;v=1" alt="Typing Intro" />
+
+</div> 
+
+---
+
+<div align="center">
+
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions)" alt="Typing Intro" />
 
 </div>
 
@@ -40,7 +48,7 @@ public class Tusharika {
     String[] levelingUpIn = {"AWS", "Event-Driven Architecture", "Docker"};
     String principle = "Ship resilient systems, then optimize them fast.";
 }
-` ` `
+```
 
 ---
 
@@ -48,7 +56,7 @@ public class Tusharika {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,docker,linux,git,github,vscode,bash&perline=7" alt="Tech Stack Icons" />
+<img src="[https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,docker,linux,git,github,vscode,bash&perline=7](https://skillicons.dev/icons?i=java,spring,postgres,mysql,aws,docker,linux,git,github,vscode,bash&perline=7)" alt="Tech Stack Icons" />
 
 </div>
 
@@ -85,7 +93,7 @@ public class Tusharika {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharika725&bg_color=0D1117&color=6DB33F&line=ED8B00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Tusharika725&bg_color=0D1117&color=6DB33F&line=ED8B00&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Tusharika725&bg_color=0D1117&color=6DB33F&line=ED8B00&point=FFFFFF&area=true&hide_border=true)" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -95,7 +103,7 @@ public class Tusharika {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tusharika725/Tusharika725/output/pacman-contribution-graph-dark.svg" alt="Pacman Space Invader Contribution Graph (Dark)" />
+<img src="[https://raw.githubusercontent.com/Tusharika725/Tusharika725/output/pacman-contribution-graph-dark.svg](https://raw.githubusercontent.com/Tusharika725/Tusharika725/output/pacman-contribution-graph-dark.svg)" alt="Pacman Space Invader Contribution Graph (Dark)" />
 
 </div>
 
@@ -124,18 +132,10 @@ Open to backend engineering roles, collaborations, and open-source work.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Tusharika725&color=6DB33F&style=flat-square&label=Profile+Views)
+![]([https://komarev.com/ghpvc/?username=Tusharika725&color=6DB33F&style=flat-square&label=Profile+Views](https://komarev.com/ghpvc/?username=Tusharika725&color=6DB33F&style=flat-square&label=Profile+Views))
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1B2A15&height=120&section=footer" alt="Footer Banner" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1B2A15&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1B2A15&height=120&section=footer)" alt="Footer Banner" />
 
 "Make it work, make it right, make it fast." – Kent Beck
 
 </div>
-```
-
-**Key fixes made:**
-- Removed the duplicate typing SVG block (you had it twice)
-- Stripped the `[display text](url)` wrapper from every `src=""` attribute — leaving just the plain URL
-- Same fix applied to the profile view counter and footer banner
-
-Also, one note: the **Space Invader/Pacman graph** requires a GitHub Action to generate the SVG file into your repo's `output` branch. If you haven't set that up yet, that image will still be broken until you add the workflow.
