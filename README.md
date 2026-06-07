@@ -1,22 +1,42 @@
-<h1 align="center">Hi there, I'm Tusharika Srivastava 👋</h1>
-<h3 align="center">Build. Scale. Optimize.</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:tusharikas25aug@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/tusharika07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&height=240&section=header&text=Tusharika%20Srivastava&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Backend%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=68&descSize=20" alt="Tusharika Srivastava Banner" />
 
-Information Technology student based in Raebareli, UP, focused on backend engineering, cloud architecture, and open-source growth.
-Building highly scalable microservices with **Java and Spring Boot**. Practicing deep system design and CS fundamentals. Expanding cloud and deployment knowledge with **AWS, Docker, and Linux**. Passionate about contributing to impactful open-source projects.
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharikas25aug@gmail.com)
+
+</div>
 
 ---
 
-### Snapshot
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=6DB33F&center=true&vCenter=true&width=760&lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions" alt="Typing Intro" />
+
+</div>
+
+---
+
+## Build. Scale. Optimize.
+
+Information Technology student focused on backend engineering, cloud architecture, and open-source growth.
+
+- Building highly scalable microservices with **Java and Spring Boot**.
+- Practicing deep system design and CS fundamentals.
+- Expanding cloud and deployment knowledge with **AWS, Docker, and Linux**.
+- Passionate about contributing to impactful open-source projects.
+
+---
+
+## Snapshot
 
 ```java
 public class Tusharika {
     String location = "Raebareli, Uttar Pradesh, India";
+    String role = "Backend Software Engineer";
     String[] currentFocus = {"Java", "Spring Boot", "System Design", "Open Source"};
     String[] levelingUpIn = {"AWS Pipelines", "Event-Driven Architecture", "Docker"};
-    String principle = "Learn by Building.";
+    String principle = "Ship resilient systems, then optimize them.";
 }
