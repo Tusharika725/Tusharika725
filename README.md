@@ -41,3 +41,32 @@ public class Tusharika {
     String[] levelingUpIn = {"AWS Pipelines", "Event-Driven Architecture", "Docker"};
     String principle = "Ship resilient systems, then optimize them.";
 }
+
+Tech Stack
+Current Focus
+Shipping
+Resilient backend architectures
+
+Scalable cloud-native solutions
+
+Clean, maintainable Java code
+
+Growing
+System design intuition
+
+CI/CD and DevOps fundamentals
+
+Open source contributions
+
+GitHub Activity
+Highlights
+Amazon Intern: Software Development Engineer Intern, migrating enterprise workflows and optimizing cloud pipelines.
+
+Open Source: Contributed 3 merged PRs to OpenTelemetry (Java).
+
+Community: Amazon Future Engineer Scholar (Top 500 nationwide) and Codess.Cafe 2025 Cohort Member.
+
+Let's Build Something Useful
+Open to backend engineering roles, collaborations, and open-source work.
+
+"Make it work, make it right, make it fast." – Kent Beck
