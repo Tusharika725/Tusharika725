@@ -1,11 +1,19 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&height=240&section=header&text=Tusharika%20Srivastava&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Backend%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=68&descSize=20](https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&height=240&section=header&text=Tusharika%20Srivastava&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Backend%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=68&descSize=20)" alt="Tusharika Srivastava Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&amp;height=240&amp;section=header&amp;text=Tusharika%20Srivastava&amp;fontSize=64&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;stroke=000000&amp;strokeWidth=1&amp;desc=Backend%20Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&amp;descAlignY=68&amp;descSize=20&amp;v=1" alt="Tusharika Srivastava Banner" />
 
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharika07/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharikas25aug@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=1300&amp;color=6DB33F&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions&amp;v=1" alt="Typing Intro" />
 
 </div>
 
