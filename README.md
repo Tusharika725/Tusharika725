@@ -7,12 +7,11 @@
 </p>
 
 Information Technology student based in Raebareli, UP, focused on backend engineering, cloud architecture, and open-source growth.
-
-[cite_start]Building highly scalable microservices with **Java and Spring Boot**[cite: 9, 11]. [cite_start]Practicing deep system design and CS fundamentals[cite: 10]. [cite_start]Expanding cloud and deployment knowledge with **AWS, Docker, and Linux**[cite: 14, 15]. Passionate about contributing to impactful open-source projects.
+Building highly scalable microservices with **Java and Spring Boot**. Practicing deep system design and CS fundamentals. Expanding cloud and deployment knowledge with **AWS, Docker, and Linux**. Passionate about contributing to impactful open-source projects.
 
 ---
 
-### 📸 Snapshot
+### Snapshot
 
 ```java
 public class Tusharika {
