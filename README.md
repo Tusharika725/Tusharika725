@@ -4,7 +4,7 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharika07/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharikas25aug@gmail.com)
 
 </div>
@@ -25,6 +25,7 @@ Information Technology student focused on backend engineering, cloud architectur
 
 - Building highly scalable microservices with **Java and Spring Boot**.
 - Practicing deep system design and CS fundamentals.
+- Practicing Data Structures and Algorithms.
 - Expanding cloud and deployment knowledge with **AWS, Docker, and Linux**.
 - Passionate about contributing to impactful open-source projects.
 
