@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&height=240&section=header&text=Tusharika%20Srivastava&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Software%20Engineer%20%7C%20Java%20and%20Spring%20Boot&descAlignY=68&descSize=20" alt="Tusharika Srivastava Banner" />
+<img src="https://capsule-render.vercel.app/api?
+type=venom&color=0:0D1117,40:1B2A15,80:487928,100:ED8B00&height=240&section=header&text=Tusharika%20Srivastava&fontSize=64&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=1&desc=Software%20Engineer%20%7C%20Java%20and%20Spring%20Boot&descAlignY=68&descSize=20" alt="Tusharika Srivastava Banner" />
 
 <br />
 
