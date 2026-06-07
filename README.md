@@ -11,11 +11,11 @@
 
 ---
 
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=1300&amp;color=6DB33F&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+Scalable+Backend+Systems;Engineering+with+Java+%2B+Spring+Boot;Cloud+%26+AWS+Architecture;Open+Source+Contributions&amp;v=1" alt="Typing Intro" />
 
-</div> -->
+</div> 
 
 ---
 
